@@ -1,4 +1,4 @@
-# CompanyCam Automated Tests
+#Cypress Automated Tests
 ## General Info
 I created three Cypress files to automate the login, creating a new project, and uploading a photo to a project.
 
